@@ -1,0 +1,3 @@
+Message = "congratulations"
+
+print(Message.upper())
